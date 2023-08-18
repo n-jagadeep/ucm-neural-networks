@@ -25,3 +25,5 @@ Question 3:
              
 
 This problem asks us to get class grade as an input and give out the grades as output using if else statements, so i use the variable "class_score" to get the input from the user and construct an if else ladder so that the appropriate grades are displayed as outputs. 
+
+Video link: https://drive.google.com/file/d/1nhcOqjbeI5PXdkcejMYwPzvJWuhIdUNb/view?usp=share_link
