@@ -22,3 +22,4 @@ Problem 3b:
 
 The purpose of this program is to convert the value of heights given in a list form inches to centimeters using list comprehension, this method used buil-in list functions to convert the list values
 
+Explanation video: https://drive.google.com/file/d/1dzO9AXpwP3iKc5iYzOigLXDCz3SYx-VZ/view?usp=share_link
